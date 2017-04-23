@@ -29,6 +29,7 @@ nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 2px;
     font-weight: bold;
+    list-style: none;
 }
 
 ul.posts li {
