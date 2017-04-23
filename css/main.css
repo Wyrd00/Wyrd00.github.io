@@ -37,6 +37,7 @@ ul.posts li {
 }
 
 blockquote {
-  margin: 0 40px;
+  background: #f9f9f9;
+  border-left: 10px solid #ccc
   
 }
