@@ -39,5 +39,8 @@ ul.posts li {
 blockquote {
   background: #f9f9f9;
   border-left: 10px solid #ccc
-  
+}
+
+blockquote p {
+    display:inline;
 }
