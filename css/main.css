@@ -35,3 +35,8 @@ nav ul li, footer ul li {
 ul.posts li {
     list-style: none;
 }
+
+blockquote {
+  margin: 0 40px;
+  
+}
