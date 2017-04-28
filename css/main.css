@@ -63,3 +63,8 @@ blockquote p {
     display:inline;
     
 }
+
+div class='poetry' {
+    font-size: 1em;
+    font-family: 'Sans-Serif';
+}
