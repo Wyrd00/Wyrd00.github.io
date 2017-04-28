@@ -14,7 +14,7 @@ img-center {
 }
 
 p {
-    font-size: 1.5em;
+    font-size: 1.2em;
     line-height: 1.2em;
     color: #345
 }
@@ -67,4 +67,5 @@ blockquote p {
 div class='poetry' {
     font-size: 0.5em;
     font-family: 'Sans-Serif';
+    line-height: 0.9em;
 }
